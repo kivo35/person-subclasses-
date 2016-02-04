@@ -1,4 +1,3 @@
-# Basic Project
-## This file is modified to include a link to google site
+# person subclasses project
+### Create classes Person, Employee, Teacher, Janitor, Counselor.
 
-[Google](https://google.com)
